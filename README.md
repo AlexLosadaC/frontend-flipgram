@@ -10,3 +10,6 @@ npm start
 
 
 Have fun.
+
+
+Screenshots in screenshots folder.
